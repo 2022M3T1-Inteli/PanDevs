@@ -5,8 +5,14 @@
 </p>
 
 # Banco Pan
+<p align="center">
+<img src="https://github.com/2022M3T1/Projeto4/blob/main/logobancopan.png" alt="Banco Pan" border="0">
+</p>
 
 ## PanDevs
+<p align="center">
+<img src="https://github.com/2022M3T1/Projeto4/blob/main/logopandevs.png" alt="Logo grupo PanDevs" border="0">
+</p>
 
 ## Integrantes: 
 - <a href="https://www.linkedin.com/in/crisandrade/">Cristiane de Andrade Coutinho</a>

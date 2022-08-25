@@ -18,7 +18,7 @@
 
 ## 📝 Descrição
 
-Curta descrição sobre o que o seu projeto faz (problema a ser resolvido e solução proposta).
+Com o intuito de melhorar o atendimento do Banco Pan, direcionando melhor os atendentes, foi desenvolvido um Modelo Preditivo a partir do Aprendizado de Máquina, com os dados internos do Banco Pan e do Open Banking, para classificar as pessoas em clientes atritados, clientes engajados e possíveis novos clientes.
 
 ## 📁 Estrutura de pastas
 

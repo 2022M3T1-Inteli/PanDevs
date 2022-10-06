@@ -30,21 +30,15 @@ Com o intuito de melhorar o atendimento do Banco Pan, direcionando melhor os ate
 
 |--> documentos<br>
   &emsp;| --> outros <br>
-  &emsp;| T1_G4_V1_Predictive_Model_Document.pdf<br>
-  &emsp;| T1_G4_V2_Predictive_Model_Document.pdf<br>
-  &emsp;| T1_G4_V3_Predictive_Model_Document.pdf<br>
-  &emsp;| T1_G4_V3_Predictive_Model_Document.docx<br>
-  &emsp;| T1_G4_V4_Predictive_Model_Document.pdf<br>
-  &emsp;| T1_G4_V4_Predictive_Model_Document.docx<br>
   &emsp;| T1_G4_V5_Predictive_Model_Document.pdf<br>
   &emsp;| T1_G4_V5_Predictive_Model_Document.docx<br>
   &emsp;| T1_G4_V6_Predictive_Model_Document.pdf<br>
+  &emsp;| T1_G4_V7_Predictive_Model_Document.pdf<br>
+  &emsp;| T1_G4_V7_Predictive_Model_Document.docx<br>
 |--> notebooks<br>
-  &emsp;|--> T1_G4_V1_Predictive_Model_Development.ipynb<br>
+  &emsp;|--> T1_G4_V1_estudo_dados.ipynb<br>
   &emsp;|--> T1_G4_V2_Predictive_Model_Development.ipynb<br>
-  &emsp;|--> T1_G4_V3_Predictive_Model_Development.ipynb<br>
-  &emsp;|--> estudo_dados.ipynb<br>
-  &emsp;|--> modelos.ipynb<br>
+  &emsp;|--> T1_G4_V3_modelos.ipynb<br>
   &emsp;|--> notebooks sprint 4<br>
   &emsp;&emsp;|--> auto_ml_modelos.ipynb<br>
   &emsp;&emsp;|--> estudo_dados.ipynb<br>

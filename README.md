@@ -30,10 +30,28 @@ Com o intuito de melhorar o atendimento do Banco Pan, direcionando melhor os ate
 
 |--> documentos<br>
   &emsp;| --> outros <br>
-  &emsp;| T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Document.pdf<br>
-  &emsp;| T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Document.docx<br>
+  &emsp;| T1_G4_V1_Predictive_Model_Document.pdf<br>
+  &emsp;| T1_G4_V2_Predictive_Model_Document.pdf<br>
+  &emsp;| T1_G4_V3_Predictive_Model_Document.pdf<br>
+  &emsp;| T1_G4_V3_Predictive_Model_Document.docx<br>
+  &emsp;| T1_G4_V4_Predictive_Model_Document.pdf<br>
+  &emsp;| T1_G4_V4_Predictive_Model_Document.docx<br>
+  &emsp;| T1_G4_V5_Predictive_Model_Document.pdf<br>
+  &emsp;| T1_G4_V5_Predictive_Model_Document.docx<br>
+  &emsp;| T1_G4_V6_Predictive_Model_Document.pdf<br>
 |--> notebooks<br>
-  &emsp;|--> T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Development.ipynb<br>
+  &emsp;|--> T1_G4_V1_Predictive_Model_Development.ipynb<br>
+  &emsp;|--> T1_G4_V2_Predictive_Model_Development.ipynb<br>
+  &emsp;|--> T1_G4_V3_Predictive_Model_Development.ipynb<br>
+  &emsp;|--> estudo_dados.ipynb<br>
+  &emsp;|--> modelos.ipynb<br>
+  &emsp;|--> notebooks sprint 4<br>
+  &emsp;&emsp;|--> auto_ml_modelos.ipynb<br>
+  &emsp;&emsp;|--> estudo_dados.ipynb<br>
+  &emsp;&emsp;|--> Hiperparametros_de_atritado.ipynb<br>
+  &emsp;&emsp;|--> Hiperparametros_modelos_novo_cliente.ipynb<br>
+  &emsp;&emsp;|--> Modelo_engajado.ipynb<br>
+  &emsp;&emsp;|--> modelos.ipynb<br>
 | readme.md<br>
 | license.txt
 
@@ -54,22 +72,34 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 
 ## 🗃 Histórico de lançamentos
 
-* 0.2.1 - 25/01/2022
-    * Atualização de documentos (código do módulo permanece inalterado).
-* 0.2.0 - 15/01/2022
-    * Remove `setDefaultXYZ()`
-    * Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * Crash quando chama `baz()`
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
-    * Trabalho em andamento
+* 1.0.7 - 06/10/2022
+    * Nova versão do Readme 
+* 1.0.6 - 23/09/2022
+    * Notebook de modelos
+    * Notebooks de hiperparâmetros de atritado, novo cliente e engajado
+    * Notebook de autoML
+    * Nova versão do notebook de manipulações
+* 1.0.6 - 09/09/2022
+    * Notebook de modelos
+    * Nova versão do notebook de manipulações
+* 1.0.5 - 26/08/2022
+    * Atualização dos notebooks
+    * Atualização da documentação
+* 1.0.4 - 25/08/2022
+    * Update do Readme
+    * Adição de imagens do Readme
+* 1.0.3 - 24/08/2022
+    * Nova organização das pastas do github
+* 1.0.2 - 24/08/2022
+    * Update do Readme
+* 1.0.1 - 12/08/2022
+    * Nova versão da documentação
+* 1.0.0 - 30/07/2022
+    * Criação da documentação
 
 ## 📋 Licença/License
 
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">MODELO GIT INTELI</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.yggbrasil.com.br/vr">Inteli, Cristiane Coutinho, Daniel Cunha, Lyorrei Quintão, Rafael Cabral, Sophia Dias e Yves Lapa</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">MODELO GIT INTELI</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="">Inteli, Cristiane Coutinho, Daniel Cunha, Lyorrei Quintão, Rafael Cabral, Sophia Dias e Yves Lapa</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
 
 ## 🎓 Referências
 

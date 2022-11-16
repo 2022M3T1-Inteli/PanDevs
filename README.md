@@ -5,14 +5,7 @@
 </p>
 
 # Banco Pan
-<p align="center">
-<img src="https://github.com/2022M3T1/Projeto4/blob/main/logobancopan.png" alt="Banco Pan" border="0">
-</p>
-
 ## PanDevs
-<p align="center">
-<img src="https://github.com/2022M3T1/Projeto4/blob/main/logopandevs.png" alt="Logo grupo PanDevs" border="0">
-</p>
 
 ## Integrantes: 
 - <a href="https://www.linkedin.com/in/crisandrade/">Cristiane de Andrade Coutinho</a>
@@ -30,9 +23,6 @@ Com o intuito de melhorar o atendimento do Banco Pan, direcionando melhor os ate
 
 |--> documentos<br>
   &emsp;| --> outros <br>
-  &emsp;| T1_G4_V5_Predictive_Model_Document.pdf<br>
-  &emsp;| T1_G4_V5_Predictive_Model_Document.docx<br>
-  &emsp;| T1_G4_V6_Predictive_Model_Document.pdf<br>
   &emsp;| T1_G4_V7_Predictive_Model_Document.pdf<br>
   &emsp;| T1_G4_V7_Predictive_Model_Document.docx<br>
 |--> notebooks<br>
@@ -93,10 +83,4 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 
 ## 📋 Licença/License
 
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">MODELO GIT INTELI</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="">Inteli, Cristiane Coutinho, Daniel Cunha, Lyorrei Quintão, Rafael Cabral, Sophia Dias e Yves Lapa</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
-
-## 🎓 Referências
-
-Aqui estão as referências usadas no projeto:
-
-1. <https://creativecommons.org/share-your-work/>
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2022M3T1-Inteli/PanDevs">PanDevs</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="">Inteli, Cristiane Coutinho, Daniel Cunha, Lyorrei Quintão, Rafael Cabral, Sophia Dias e Yves Lapa</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
